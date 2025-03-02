@@ -9,10 +9,13 @@
 </h1>
   
 </p> 
-  <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/> 
+ 
 </h3>
-<img src="https://readme-typing-svg.demolab.com/? 
-    lines=Addicted%20to%20Competitive%20Programming;Developer%20of%20Python%20Django;&font=Fira%20Code&center=true&width=800&height=45&color=ff79c6&vCenter=true&pause=1000&size=25"/>
-<h3 align="center">🌟 Software Engineer | Problem Solver | Competitive Programmer 🌟</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20about%20Competitive%20Programming;Developer%20of%20Python%20Django&font=Fira%20Code&center=true&width=800&height=45&color=ff79c6&vCenter=true&pause=1000&size=25"/>
+</p>
+
+<h3 align="center">🌟 Software Developer | Problem Solver | Competitive Programmer 🌟</h3>
 
 
