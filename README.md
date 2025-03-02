@@ -27,6 +27,7 @@
   <h4 style="color: #2C3E50; text-align: center; font-family: 'Arial', sans-serif;">Social Media Profiles</h4>
    
   <!-- LinkedIn -->
+   <div align="center" style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/dip-sarker/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"/>
   </a>
@@ -40,6 +41,8 @@
   <a href="https://www.facebook.com/attachment.unavailablle" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="50"/>
   </a>
+
+   </div>
   <br>
 
 
