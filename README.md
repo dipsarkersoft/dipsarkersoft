@@ -31,7 +31,7 @@ Hi, I’m Dip Sarker
 
 <br>
 
-
+<hr/>
 
 <p align="center">
  
@@ -139,4 +139,9 @@ Hi, I’m Dip Sarker
   </tr>
   
   </div>
+<br/><br/>
 
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/sajjadhossain0/sajjadhossain0/output/snake.svg" alt="Snake animation" />
+  <br/><br/><br/>
+</div>
