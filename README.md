@@ -104,6 +104,27 @@ Hi, I’m Dip Sarker
 - 🏆 I actively solve algorithmic challenges on Codeforces, CodeChef, and LeetCode to improve my problem-solving skills.
 - 🌱 I’m always eager to learn new technologies and improve my development expertise.
 
+<br>
+<br>
+<br>
 
+
+
+<h2>🔗 Performance Overview 🌟 </h2> 
+ 
+ align="center">
+ <table>
+
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=dipsarkersoft&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=FFFFFF&background=161B22" />
+      </a>
+    </td>
+    <td align="center">
+      <img width="400" src="https://github-readme-stats.vercel.app/api?username=dipsarkersoft&show_icons=true&theme=transparent&text_color=A6A6A6&icon_color=E25822&bg_color=161B22&border_color=FFFFFF&count_private=true&include_all_commits=true" />
+    </td>
+  </tr>
   
+  </div>
 
