@@ -20,7 +20,29 @@
 
 <br>
 
+
+<p>
+  <h4 style="color: #2C3E50; text-align: center; font-family: 'Arial', sans-serif;">🌟 My Competitive Programming Profiles 🌟</h4>
+  
+  <div align="center" style="margin: 20px 0;">
+    <a href="https://leetcode.com/u/dipsarker/" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000&logoColor=white&labelColor=4A4A4A&style=for-the-badge" alt="LeetCode Logo" />
+    </a>
+    <a href="https://codeforces.com/profile/dip_sarker" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=2B2B2B&logoColor=FFFFFF&labelColor=4A4A4A&style=for-the-badge" alt="Codeforces Logo" />
+    </a>
+    <a href="https://www.codechef.com/users/dip_sarker" target="_blank" style="text-decoration: none;">
+     <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4EFF&logoColor=white&labelColor=4A4A4A&style=for-the-badge" alt="CodeChef Logo" />
+
+  </a>
+    
+  </div>
+</p>
+
 <p align="center">
+  <p>
+  <h4 style="color: #2C3E50; text-align: center; font-family: 'Arial', sans-serif;">Social Media Profiles</h4>
+   </p>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/dip-sarker/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"/>
@@ -37,17 +59,4 @@
   </a>
   <br>
   
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/dip_sarker" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="50"/>
-  </a>
-  <!-- CodeForces -->
-  <a href="https://codeforces.com/profile/dip_sarker" target="_blank">
-    <img src="https://img.shields.io/badge/CodeForces-%231F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces" height="50"/>
-  </a>
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/dipsarker/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FE7A16.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="50"/>
-  </a>
-</p>
 
