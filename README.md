@@ -64,5 +64,33 @@
   </div>
 </p>
 
+
+
+<h3> ⚙️ Languages and Tools </h3>
+<div align="center">
+  <table style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td style="padding: 8px; border: none; text-align: center;">Programming Languages</td>
+      <td style="padding: 8px; border: none; text-align: center; text:center;">Database Languages</td>
+      <td style="padding: 8px; border: none; text-align: center;">Frameworks</td>
+      <td style="padding: 8px; border: none; text-align: center;">Tools & Cloud DevOps</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 2px solid black; text-align: center;">
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,js" alt="Programming Icons">   
+      </td> 
+      <td style="padding: 8px; border: 2px solid black; text-align: center;">       
+          <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" alt="Database Icons">       
+      </td>
+      <td style="padding: 8px; border: 2px solid black; text-align: center;">       
+        <img src="https://skillicons.dev/icons?i=django,react,redux,tailwind,bootstrap" alt="Framework Icons">       
+      </td>
+      <td style="padding: 8px; border: 2px solid black; text-align: center;">      
+      <img src="https://skillicons.dev/icons?i=git,github,aws,firebase,linux" alt="Tools & Cloud DevOps Icons">      
+      </td>
+    </tr>
+  </table>
+</div>
+
   
 
