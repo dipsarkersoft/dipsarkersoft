@@ -21,7 +21,29 @@
 <br>
 
 
-<p>
+
+<p align="center">
+ 
+  <h4 style="color: #2C3E50; text-align: center; font-family: 'Arial', sans-serif;">Social Media Profiles</h4>
+   
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/dip-sarker/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"/>
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://x.com/Dip__Sarker" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" height="50"/>
+  </a>
+ 
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/attachment.unavailablle" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="50"/>
+  </a>
+  <br>
+
+
+  <p>
   <h4 style="color: #2C3E50; text-align: center; font-family: 'Arial', sans-serif;">🌟 My Competitive Programming Profiles 🌟</h4>
   
   <div align="center" style="margin: 20px 0;">
@@ -39,24 +61,5 @@
   </div>
 </p>
 
-<p align="center">
-  <p>
-  <h4 style="color: #2C3E50; text-align: center; font-family: 'Arial', sans-serif;">Social Media Profiles</h4>
-   </p>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dip-sarker/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"/>
-  </a>
-
-  <!-- Twitter -->
-  <a href="https://x.com/Dip__Sarker" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" height="50"/>
-  </a>
- 
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/attachment.unavailablle" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="50"/>
-  </a>
-  <br>
   
 
