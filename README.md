@@ -92,5 +92,18 @@
   </table>
 </div>
 
+<br>
+<br>
+
+## 👤 **About Me**
+Hi, I’m Dip Sarker
+- 👨‍💻 I’m a Software Developer and a Competitive Programmer passionate about solving complex problems and building efficient applications.
+- 💻 I specialize in JavaScript, Python, C, C++, React, Django, and Django REST Framework, enabling me to develop full-stack applications.
+- 🚀 I create dynamic frontend applications using React.js, and design user-friendly interfaces with Bootstrap and Ant Design.
+- 🔧 On the backend, I develop scalable APIs using Django and Django REST Framework.
+- 🏆 I actively solve algorithmic challenges on Codeforces, CodeChef, and LeetCode to improve my problem-solving skills.
+- 🌱 I’m always eager to learn new technologies and improve my development expertise.
+
+
   
 
