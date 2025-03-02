@@ -112,7 +112,7 @@ Hi, I’m Dip Sarker
 
 <h2>🔗 Performance Overview 🌟 </h2> 
  
- align="center">
+<div align="center">
  <table>
 
   <tr>
