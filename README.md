@@ -19,3 +19,31 @@
 <h3 align="center">🌟 Software Developer | Problem Solver | Competitive Programmer 🌟</h3>
 
 
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/dip-sarker/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"/>
+  </a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/attachment.unavailablle" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="50"/>
+  </a>
+  <!-- Twitter -->
+  <a href="https://x.com/Dip__Sarker" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" height="50"/>
+  </a>
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/dip_sarker" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="50"/>
+  </a>
+  <!-- CodeForces -->
+  <a href="https://codeforces.com/profile/dip_sarker" target="_blank">
+    <img src="https://img.shields.io/badge/CodeForces-%231F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces" height="50"/>
+  </a>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/dipsarker/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FE7A16.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="50"/>
+  </a>
+</p>
+
