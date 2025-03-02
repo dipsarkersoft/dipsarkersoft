@@ -18,8 +18,8 @@
 
 <h3 align="center">🌟 Software Developer | Problem Solver | Competitive Programmer 🌟</h3>
 
-
 <br>
+
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/dip-sarker/" target="_blank">
@@ -30,11 +30,12 @@
   <a href="https://x.com/Dip__Sarker" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" height="50"/>
   </a>
-  <br>
+ 
   <!-- Facebook -->
   <a href="https://www.facebook.com/attachment.unavailablle" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="50"/>
   </a>
+  <br>
   
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/dip_sarker" target="_blank">
