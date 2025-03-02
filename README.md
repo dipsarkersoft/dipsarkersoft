@@ -24,7 +24,7 @@
 
 <p align="center">
  
-  <h4 style="color: #2C3E50; text-align: center; font-family: 'Arial', sans-serif;">Social Media Profiles</h4>
+  <h4 style="color: #2C3E50; text-align: center; font-family: 'Arial', sans-serif;">🌟 My  Social Media Profiles 🌟</h4>
    
   <!-- LinkedIn -->
    <div align="center" style="margin: 20px 0;">
