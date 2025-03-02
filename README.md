@@ -126,5 +126,15 @@ Hi, I’m Dip Sarker
     </td>
   </tr>
   
+
+  <tr>
+    <td align="center">
+      <img width="400" src="https://leetcard.jacoblin.cool/dipsarker?theme=dark&font=Montserrat&ext=heatmap"  />
+    </td>
+    <td align="center">
+      <img width="350" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dipsarker&hide=HTML&langs_count=8&layout=compact&theme=gruvbox&text_color=C9D1D9&icon_color=00E1FF&bg_color=0A0A0A&border_color=FFFFFF&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    </td>
+  </tr>
+  
   </div>
 
